@@ -2,7 +2,7 @@
     [
         {
             "id": "m1",
-            "name" : "Men's shoes, hive model, code 9497",
+            "name" : "Men's shoes, hive model",
             "img":"https://freepngimg.com/thumb/shoes/26170-4-vector-shoes-image-thumb.png",
             "fast_sending": true,
             "new_price": 30,
@@ -12,7 +12,7 @@
         },
         {
             "id": "m2",
-            "name":"Mountaineering shoes model jax code 5320",
+            "name":"Mountaineering shoes model jax",
             "img":"https://freepngimg.com/thumb/shoes/21849-6-dock-shoes-thumb.png",
             "fast_sending": false,
             "new_price": 38,
@@ -22,7 +22,7 @@
         },
         {
             "id": "m3",
-            "name":"Salomon Rock Men Shoes Model 411685",
+            "name":"Salomon Rock Men Shoes Model ",
             "img":"https://freepngimg.com/thumb/shoes/28530-3-nike-shoes-transparent-thumb.png",
             "fast_sending": false,
             "new_price": 52,
@@ -32,7 +32,7 @@
         },
         {
             "id": "m4",
-            "name":"Shupa men's shoes model lgr3006-LightGrey",
+            "name":"Shupa men's shoes model lgr3006",
             "img":"https://freepngimg.com/thumb/shoes/28090-6-sneaker-file-thumb.png",
             "fast_sending": true,
             "new_price": 35,
